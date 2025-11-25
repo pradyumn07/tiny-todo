@@ -1,5 +1,5 @@
 # TinyTodo
 Features:
-* Add tasks (UI redesigned)
+* Add tasks (added persistence support)
 * Remove tasks
 * Persist tasks in localStorage
